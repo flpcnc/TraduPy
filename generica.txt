@@ -1,0 +1,4 @@
+Power supply A of the signal acquisition and actuation module.
+Power supply A of the signal acquisition and actuation module is too low.
+Power supply A of the signal acquisition and actuation module is too high.
+Power supply A of the signal acquisition and actuation module has an electrical fault or open circuit.

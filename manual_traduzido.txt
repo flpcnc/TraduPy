@@ -1,0 +1,4 @@
+Fonte de alimentação A do módulo de aquisição e atuação de sinal.
+A fonte de alimentação A do módulo de aquisição e atuação de sinal está muito baixa.
+A fonte de alimentação A do módulo de aquisição e atuação de sinal é muito alta.
+A fonte de alimentação A do módulo de aquisição e atuação de sinal tem uma falha elétrica ou circuito aberto.
